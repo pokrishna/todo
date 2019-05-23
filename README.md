@@ -43,7 +43,7 @@ python manage.py runserver
 
 4. project execution link.
 
-http://http://127.0.0.1:8000/
+http://127.0.0.1:8000/
 
 5.Admin interface 
 
