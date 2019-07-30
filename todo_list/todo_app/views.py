@@ -9,6 +9,7 @@ from django.contrib import messages
 from django.core.serializers import serialize
 from todo_app import utils
 import json
+#I have did fucking changes
 
 def is_json(data):
     try:
