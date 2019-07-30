@@ -10,6 +10,8 @@ from django.core.serializers import serialize
 from todo_app import utils
 import json
 # I have did updations for japkrishna
+# I have did updations for japkrishna
+# I have did updations for japkrishna
 
 def is_json(data):
     try:
