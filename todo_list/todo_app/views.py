@@ -10,7 +10,7 @@ from django.core.serializers import serialize
 from todo_app import utils
 import json
 #I have did fucking changes
-
+# one more update form Japkrishna
 def is_json(data):
     try:
         p_data=json.loads(data)
